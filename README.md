@@ -19,3 +19,10 @@ Steps To Run In Mobile
 > cd gplink.py or cd shrinkmeio.py
 
 # To Use This In Pc Or Desktop
+ 
+You Must Have <a href="http://python.org/downloads/">Python</a> In Your PC Or Desktop 
+
+> import requests
+
+ Then Open File 
+ 
